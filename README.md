@@ -1,2 +1,2 @@
-# Spam Detection System Using Naive Bayes
+# Spam-email-detection
 # Spam-email-detection
